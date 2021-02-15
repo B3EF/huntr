@@ -6,7 +6,7 @@
   "author": "418sec",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "^17.11.0",
+    "@octokit/rest": "^17.11.2",
     "fdir": "^3.4.3",
     "luxon": "^1.25.0",
     "mustache": "^4.0.1",
